@@ -12,3 +12,9 @@
 ### Tipos de amostragem
 
 * Amostragem aleatória simples
+
+* Amostragem sistemática
+
+* Amostragem por grupos (conglomerada)
+
+* Amostragem estratificada
